@@ -1,4 +1,4 @@
-const socket = io("http://localhost:5001"); // Update this
+const socket = io("https://chatforum.onrender.com");
 
 const messageInput = document.getElementById("message-input");
 const sendButton = document.getElementById("send-button");
