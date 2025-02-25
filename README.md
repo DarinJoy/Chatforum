@@ -66,7 +66,7 @@ This will start the chat server on **http://localhost:5001**.
 ### ✅ You're all set! Start chatting with farmers in real-time! 🚜🌱
 ## License
 
-This project is open-source and available under the [MIT](https://choosealicense.com/licenses/mit/) License
+This project is open-source and available under the MIT License
 
 ---
 
