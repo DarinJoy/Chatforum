@@ -28,7 +28,7 @@ Follow these steps to set up and run the **Farmers Chat Forum** on your local ma
 ### **1️⃣ Clone the Repository**  
 Download the project files from GitHub or manually copy them.  
 ```sh
-git clone https://github.com/your-username/farmers-chat-forum.git
+git clone [https://github.com/your-username/farmers-chat-forum.git](https://github.com/DarinJoy/Chatforum.git)
 cd farmers-chat-forum
 ```
 
